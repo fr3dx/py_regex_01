@@ -1,6 +1,6 @@
 #!/usr/bin/env python3.8
 
-# Script filters out pattern, with the help of regex from opened file: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX
+# Script filters out pattern, with the help of regex from opened file: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX and format them such: ('XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX','XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX')
 
 import re
 
